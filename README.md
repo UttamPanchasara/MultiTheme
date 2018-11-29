@@ -1,4 +1,5 @@
 # MultiTheme
+[![Uplabs](https://img.shields.io/badge/Uplabs-multitheme-orange.svg)](https://www.uplabs.com/posts/multitheme)
 
 **Sample Project** to demonstrate that how to use multi theme in Android application without using any Libraries.
 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default theme -->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="primaryText">#000000</color>
+    <color name="secondaryText">#FFFFFF</color>
+    <color name="backgroundColor">#969696</color>
+
+    <color name="tabBackgroundColor">#008577</color>
+    <color name="tabTextColor">#000000</color>
+    <color name="tabTextSelectedColor">#97f9ec</color>
+    <color name="tabIndicatorColor">#97f9ec</color>
+
+    <!-- default theme -->
+
+    <!-- black theme -->
+    <color name="blackColorPrimary">#000000</color>
+    <color name="blackColorPrimaryDark">#121212</color>
+    <color name="blackColorAccent">#f76d32</color>
+    <color name="blackPrimaryText">#FFFFFF</color>
+    <color name="blackSecondaryText">#403d3d</color>
+    <color name="blackBackgroundColor">#969696</color>
+
+    <color name="blackTabBackgroundColor">#000000</color>
+    <color name="blackTabTextColor">#403d3d</color>
+    <color name="blackTabTextSelectedColor">#FFFFFF</color>
+    <color name="blackTabIndicatorColor">#FFFFFF</color>
+
+    <!-- black theme -->
+
+    <!-- green theme -->
+    <color name="greenColorPrimary">#8BC34A</color>
+    <color name="greenColorPrimaryDark">#689F38</color>
+    <color name="greenColorPrimaryLight">#DCEDC8</color>
+    <color name="greenColorAccent">#4CAF50</color>
+    <color name="greenPrimaryText">#212121</color>
+    <color name="greenSecondaryText">#757575</color>
+    <color name="greenBackgroundColor">#969696</color>
+
+    <color name="greenTabBackgroundColor">#8BC34A</color>
+    <color name="greenTabTextColor">#757575</color>
+    <color name="greenTabTextSelectedColor">#DCEDC8</color>
+    <color name="greenTabIndicatorColor">#DCEDC8</color>
+
+    <!-- green theme -->
+
+    <color name="purpleColorPrimary">#673AB7</color>
+    <color name="purpleColorPrimaryDark">#512DA8</color>
+    <color name="purpleColorPrimaryLight">#D1C4E9</color>
+    <color name="purpleColorAccent">#4CAF50</color>
+    <color name="purplePrimaryText">#212121</color>
+    <color name="purpleSecondaryText">#757575</color>
+    <color name="purpleBackgroundColor">#969696</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="purpleTabBackgroundColor">#673AB7</color>
+    <color name="purpleTabTextColor">#757575</color>
+    <color name="purpleTabTextSelectedColor">#D1C4E9</color>
+    <color name="purpleTabIndicatorColor">#D1C4E9</color>
+
+</resources>

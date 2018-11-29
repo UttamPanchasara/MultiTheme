@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="Default">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="myWindowBackground">@color/backgroundColor</item>
+        <item name="myTabBackgroundColor">@color/tabBackgroundColor</item>
+        <item name="myTabTextColor">@color/tabTextColor</item>
+        <item name="myTabTextSelectedColor">@color/tabTextSelectedColor</item>
+        <item name="myTabIndicatorColor">@color/tabIndicatorColor</item>
+        <item name="myPrimaryTextColor">@color/primaryText</item>
+        <item name="mySecondaryTextColor">@color/secondaryText</item>
+        <item name="android:theme">@style/Default</item>
+    </style>
+
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="Black">
+        <item name="colorPrimary">@color/blackColorPrimary</item>
+        <item name="colorPrimaryDark">@color/blackColorPrimaryDark</item>
+        <item name="colorAccent">@color/blackColorAccent</item>
+
+        <item name="myWindowBackground">@color/blackBackgroundColor</item>
+        <item name="myTabBackgroundColor">@color/blackTabBackgroundColor</item>
+        <item name="myTabTextColor">@color/blackTabTextColor</item>
+        <item name="myTabTextSelectedColor">@color/blackTabTextSelectedColor</item>
+        <item name="myTabIndicatorColor">@color/blackTabIndicatorColor</item>
+        <item name="myPrimaryTextColor">@color/blackPrimaryText</item>
+        <item name="mySecondaryTextColor">@color/blackSecondaryText</item>
+    </style>
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="Green">
+        <item name="colorPrimary">@color/greenColorPrimary</item>
+        <item name="colorPrimaryDark">@color/greenColorPrimaryDark</item>
+        <item name="colorAccent">@color/greenColorAccent</item>
+
+        <item name="myWindowBackground">@color/greenBackgroundColor</item>
+        <item name="myTabBackgroundColor">@color/greenTabBackgroundColor</item>
+        <item name="myTabTextColor">@color/greenTabTextColor</item>
+        <item name="myTabTextSelectedColor">@color/greenTabTextSelectedColor</item>
+        <item name="myTabIndicatorColor">@color/greenTabIndicatorColor</item>
+        <item name="myPrimaryTextColor">@color/greenPrimaryText</item>
+        <item name="mySecondaryTextColor">@color/greenSecondaryText</item>
+    </style>
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="Purple">
+        <item name="colorPrimary">@color/purpleColorPrimary</item>
+        <item name="colorPrimaryDark">@color/purpleColorPrimaryDark</item>
+        <item name="colorAccent">@color/purpleColorAccent</item>
+
+        <item name="myWindowBackground">@color/purpleBackgroundColor</item>
+        <item name="myTabBackgroundColor">@color/purpleTabBackgroundColor</item>
+        <item name="myTabTextColor">@color/purpleTabTextColor</item>
+        <item name="myTabTextSelectedColor">@color/purpleTabTextSelectedColor</item>
+        <item name="myTabIndicatorColor">@color/purpleTabIndicatorColor</item>
+        <item name="myPrimaryTextColor">@color/purplePrimaryText</item>
+        <item name="mySecondaryTextColor">@color/purpleSecondaryText</item>
+    </style>
+
+</resources>

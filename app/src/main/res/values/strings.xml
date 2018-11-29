@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiTheme</string>
+    <string name="first_container">First Container</string>
+    <string name="third_container">Third Container</string>
+    <string name="second_container">Second Container</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string name="currentTheme">CurrentTheme</string>
+</resources>

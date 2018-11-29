@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="themes">
+        <attr name="myWindowBackground" format="reference"/>
+        <attr name="myTabBackgroundColor" format="reference"/>
+        <attr name="myTabTextColor" format="reference"/>
+        <attr name="myTabTextSelectedColor" format="reference"/>
+        <attr name="myTabIndicatorColor" format="reference"/>
+        <attr name="myPrimaryTextColor" format="reference"/>
+        <attr name="mySecondaryTextColor" format="reference"/>
+    </declare-styleable>
+</resources>

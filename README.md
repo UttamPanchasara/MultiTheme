@@ -5,9 +5,7 @@
 
 It's very easy to implement multiple themes in your Application, with any customization that you wants, you can refer this project to implement/learn multiple theme in your Android Application.
 
-| MultiTheme |
-| -------------------------------- |
-| <img src="https://github.com/UttamPanchasara/MultiTheme/blob/master/app/src/main/assets/gif/multitheme.gif" height="400" alt="Screenshot"/> |
+ <img src="https://github.com/UttamPanchasara/MultiTheme/blob/master/app/src/main/assets/gif/multitheme.gif" height="400" alt="Screenshot"/> 
 
 ### Bacis Steps to Implement Multiple Themes
 

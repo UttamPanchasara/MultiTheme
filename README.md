@@ -1,6 +1,6 @@
 # MultiTheme
 
-**Sample Project** to demostrate that how to use multi theme in Android application without using any Libraries.
+**Sample Project** to demonstrate that how to use multi theme in Android application without using any Libraries.
 
 It's very easy to implement multiple themes in your Application, with any customization that you wants, you can refer this project to implement/learn multiple theme in your Android Application.
 

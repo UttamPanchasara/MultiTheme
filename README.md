@@ -7,7 +7,7 @@ It's very easy to implement multiple themes in your Application, with any custom
 
  <img src="https://github.com/UttamPanchasara/MultiTheme/blob/master/app/src/main/assets/gif/multitheme.gif" height="400" alt="Screenshot"/> 
 
-### Bacis Steps to Implement Multiple Themes
+### Basic Steps to Implement Multiple Themes
 
 **Steps to implement multiple themes as Followed in this Sample Project :**
 
